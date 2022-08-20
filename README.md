@@ -1,14 +1,14 @@
 
 <div id="header" align="center">
-  <h1> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> I'm Akshay Kumar. </h1>
+  <h1> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> I'm Parma Ram. </h1>
    <div id="badges">
-  <a target="_blank" href="https://www.linkedin.com/in/akshay-kumar046203/">
+  <a target="_blank" href="https://www.linkedin.com/in/parma-ram-349b16228/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a target="_blank" href="https://www.youtube.com/channel/UCGFt3ELiRja8XdrTEl0w8dA/videos">
+  <a target="_blank" href="https://www.youtube.com/channel/UCVAxkcjgffKiaqx2NhzY4rA/videos">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a target="_blank" href="mailto: akshaysinghr98@gmail.com">
+  <a target="_blank" href="mailto: parmarambuldak800@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
@@ -24,9 +24,9 @@
 Learning ***Full-Stack Web Devlopment*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <a href="https://www.masaischool.com" target="_blank">Masai School</a> from Bengaluru,India. <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 - 👀 &nbsp; I’m interested in ***learning technical stuffs*** and ***building real-world applications***
 - 🤝 &nbsp; I’m looking to collaborate on **Open Source Projects**
-- 🌱 &nbsp; All of my projects are available at ***[My Portfolio](https://akshay-kumar-portfoilo.netlify.app/)***
+- 🌱 &nbsp; All of my projects are available at ***[My Portfolio](https://my-portfolio-buldak.vercel.app/)***
 - 💬 &nbsp; Ask me about ***React.Js Javascript***
-- 📫 &nbsp; How to reach me ***akshaysinghr98@gmail.com***
+- 📫 &nbsp; How to reach me ***parmarambuldak800@gmail.com***
 - ⚡ &nbsp; Fun fact ***C and Java is good, Python is better but JavaScript is the Best.***
 
 <br />
@@ -86,15 +86,15 @@ Learning ***Full-Stack Web Devlopment*** <img src="https://media.giphy.com/media
 <br/><br/>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay-Singh-Rajput&langs_count=10&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Akshay-Singh-Rajput" height="192px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=parma1111&langs_count=10&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="parma1111" height="192px"/>
 
 ### 🔥 Streak stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Akshay-Singh-Rajput&theme=vision-friendly-dark)](https://git.io/streak-stats)
-<a href="https://github.com/Akshay-Singh-Rajput/github-readme-stats"><img alt="Akshay-Singh-Rajput's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Akshay-Singh-Rajput&show_icons=true&count_private=true&theme=vision-friendly-dark" height="195px"/></a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=parma1111&theme=vision-friendly-dark)](https://git.io/streak-stats)
+<a href="https://github.com/parma1111/github-readme-stats"><img alt="parma1111's Github Stats" src="https://github-readme-stats.vercel.app/api?username=parma1111&show_icons=true&count_private=true&theme=vision-friendly-dark" height="195px"/></a>
 
   <summary><b>⚡ Recent GitHub Activity </b></summary>
   <br/>
-   <a href="https://github.com/Akshay-Singh-Rajput"><img alt="Akshay-Singh-Rajput's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Akshay-Singh-Rajput&custom_title=Akshay-Singh-Rajput's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/parma1111"><img alt="parma1111's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=parma1111&custom_title=parma1111's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
   
   
