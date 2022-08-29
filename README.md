@@ -12,8 +12,8 @@
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=Akshay-Singh-Rajpu&style=for-the-badge&color=blue" alt="profile-view"/>
-   <a target="_blank" href="https://drive.google.com/file/d/1ABfMFFrpzt4a4xOvqnu4Oz-bgAxaV6t4/view?usp=sharing">
+  <img src="https://komarev.com/ghpvc/?username=parma1111&style=for-the-badge&color=blue" alt="profile-view"/>
+   <a target="_blank" href="https://drive.google.com/file/d/1z3MDv-v6yy1xDYPHPIQuhAN1mBNXc-MR/view?usp=sharing">
      <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=download&logoColor=white" alt="Download Resume" />
     </a>
 </div>
