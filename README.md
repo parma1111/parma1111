@@ -93,11 +93,7 @@ Learning ***Full-Stack Web Devlopment*** <img src="https://media.giphy.com/media
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=parma1111&theme=vision-friendly-dark)](https://git.io/streak-stats)
 <a href="https://github.com/parma1111/github-readme-stats"><img alt="parma1111's Github Stats" src="https://github-readme-stats.vercel.app/api?username=parma1111&show_icons=true&count_private=true&theme=vision-friendly-dark" height="195px"/></a>
 
-  <summary><b>⚡ Recent GitHub Activity </b></summary>
-  <br/>
-   <a href="https://github.com/parma1111"><img alt="parma1111's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=parma1111&custom_title=parma1111's%20Contribution%20Graph&theme=react-dark" /> </a>
-  <br/>
-  
+
   
   <!----------------------------------------------------------------------------------------------------------------------------------------------------
 <img src="http://img.shields.io/badge/-AWS-F5971E?style=for-the-badge&logo=amazonwebserver&logoColor=white" >
