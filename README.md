@@ -95,7 +95,7 @@ Learning ***Full-Stack Web Devlopment*** <img src="https://media.giphy.com/media
 
   <summary><b>⚡ Recent GitHub Activity </b></summary>
   <br/>
-   <a href="https://github.com/parma1111"><img alt="parma1111's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=parma1111&custom_title=parma1111's%20Contribution%20Graph&theme=react-dark" />hello </a>
+   <a href="https://github.com/parma1111"><img alt="parma1111's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=parma1111&custom_title=parma1111's%20Contribution%20Graph&theme=react-dark" /> </a>
   <br/>
   
   
