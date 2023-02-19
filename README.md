@@ -40,6 +40,8 @@ Learning ***Full-Stack Web Devlopment*** <img src="https://media.giphy.com/media
 
 ### 😂 Let's Put a Smile on That Face !!!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=parma1111&theme=dracula&hide_border=true)
   
 #  
 ### 🛠 My Skills
