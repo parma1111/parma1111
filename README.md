@@ -31,7 +31,9 @@ Learning ***Full-Stack Web Devlopment*** <img src="https://media.giphy.com/media
 - 📫 &nbsp; How to reach me ***parmarambuldak800@gmail.com***
 - ⚡ &nbsp; Fun fact ***C and Java is good, Python is better but JavaScript is the Best.***
 
-<br />
+
+
+
 ### 😂 Let's Put a Smile on That Face !!!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
   
