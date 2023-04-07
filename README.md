@@ -38,6 +38,13 @@ Learning ***Full-Stack Web Devlopment*** <img src="https://media.giphy.com/media
  <img height="200" src="https://833250.smushcdn.com/1694534/wp-content/uploads/2021/06/photo_2021-06-12-17.35.38.jpeg?lossy=1&strip=1&webp=1"/>  
 </p>
 
+<table>
+  <tr>
+    <td><a href="https://stars.github.com/profiles/eddiejaoude/"><img src="https://user-images.githubusercontent.com/624760/197230432-de4db9f3-8c8d-4421-8ed4-fc83c02f73e6.jpeg" /></a></td>
+    <td><a href="https://stars.github.com/profiles/eddiejaoude/"><img src="https://user-images.githubusercontent.com/624760/197230439-f90cd6b0-2174-41be-97eb-5f28f49d9d19.jpg" /></a></td>
+  </tr>
+</table>
+
 ### 😂 Let's Put a Smile on That Face !!!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
   
