@@ -36,7 +36,7 @@ Learning ***Full-Stack Web Devlopment*** <img src="https://media.giphy.com/media
 <p align="center">
 <H3> I am a Javascript Fanboy and One thing you should know about JavaScript is :</H3>
  <H5> JavaScript is the only language that I’m aware of that people feel they don’t need to learn before they start using it.  - Douglas Crockford</H5>
- <img height="200" src="https://833250.smushcdn.com/1694534/wp-content/uploads/2021/06/photo_2021-06-12-17.35.38.jpeg?lossy=1&strip=1&webp=1"/>  
+ <img height="200" src="https://833250.smushcdn.com/1694534/wp-content/uploads/2021/06/photo_2021-06-12-17.35.38.jpeg?lossy=1&strip=1&webp=1"> 
 </p>
 
 
