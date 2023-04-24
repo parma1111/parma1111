@@ -1,5 +1,5 @@
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5RejgEhh4glSvrOmwkq-rq3f_zuoLNIWeh5BwCd7ZHsrWJHvxVHS8jt0gYJfYams9E91_vxFYkqeW751Qnl6KJfSpGvxA391lbYJOX-CZFpLhXLNE4Acu_2BRF9SqQ6pbeQ6RJ5qAiE_Mw9_9uQMM7X0hkA2JJ4dRTZCk4oy_ZIL-_-41wxVVKxKrpA/s16000/portfolio-image.gif" width="100%" />
   <h1> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> I'm Parma Ram. </h1>
    <div id="badges">
@@ -17,23 +17,23 @@
    <a target="_blank" href="https://drive.google.com/file/d/1z3MDv-v6yy1xDYPHPIQuhAN1mBNXc-MR/view?usp=sharing">
      <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=download&logoColor=white" alt="Download Resume" />
     </a>
-</div>
+</div> -->
 
   
-### :man_technologist: About Me 
+<!-- ### :man_technologist: About Me 
  
-Learning ***Full-Stack Web Devlopment*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <a href="https://www.masaischool.com" target="_blank">Masai School</a> from Bengaluru,India. 
+Learning ***Full-Stack Web Devlopment*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <a href="https://www.masaischool.com" target="_blank">Masai School</a> from Bengaluru,India.  -->
 <!-- <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/> -->
-- 👀 &nbsp; I’m interested in ***learning technical stuffs*** and ***building real-world applications***
+<!-- - 👀 &nbsp; I’m interested in ***learning technical stuffs*** and ***building real-world applications***
 - 🤝 &nbsp; I’m looking to collaborate on **Open Source Projects**
 - 🌱 &nbsp; All of my projects are available at ***[My Portfolio](https://my-portfolio-buldak.vercel.app/)***
 - 💬 &nbsp; Ask me about ***React.Js Javascript***
 - 📫 &nbsp; How to reach me ***parmarambuldak800@gmail.com***
-- ⚡ &nbsp; Fun fact ***C and Java is good, Python is better but JavaScript is the Best.***
+- ⚡ &nbsp; Fun fact ***C and Java is good, Python is better but JavaScript is the Best.*** -->
 
 
 
-
+<!-- 
 ### 😂 Let's Put a Smile on That Face !!!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
   
@@ -87,7 +87,7 @@ Learning ***Full-Stack Web Devlopment*** <img src="https://media.giphy.com/media
 
 ### 🔥 Streak stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=parma1111&theme=vision-friendly-dark)](https://git.io/streak-stats)
-<a href="https://github.com/parma1111/github-readme-stats"><img alt="parma1111's Github Stats" src="https://github-readme-stats.vercel.app/api?username=parma1111&show_icons=true&count_private=true&theme=vision-friendly-dark" height="195px"/></a>
+<a href="https://github.com/parma1111/github-readme-stats"><img alt="parma1111's Github Stats" src="https://github-readme-stats.vercel.app/api?username=parma1111&show_icons=true&count_private=true&theme=vision-friendly-dark" height="195px"/></a> -->
 
 
   
