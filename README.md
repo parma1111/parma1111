@@ -1,7 +1,7 @@
  
   <div id="header" align="center">
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5RejgEhh4glSvrOmwkq-rq3f_zuoLNIWeh5BwCd7ZHsrWJHvxVHS8jt0gYJfYams9E91_vxFYkqeW751Qnl6KJfSpGvxA391lbYJOX-CZFpLhXLNE4Acu_2BRF9SqQ6pbeQ6RJ5qAiE_Mw9_9uQMM7X0hkA2JJ4dRTZCk4oy_ZIL-_-41wxVVKxKrpA/s16000/portfolio-image.gif" width="100%" />
-<!--   <h1> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> I'm Parma Ram. </h1>
+   <h1> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> I'm Parma Ram. </h1>
    <div id="badges">
   <a target="_blank" href="https://www.linkedin.com/in/parma-ram-349b16228/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,11 +16,11 @@
   <img src="https://komarev.com/ghpvc/?username=parma1111&style=for-the-badge&color=blue" alt="profile-view"/>
    <a target="_blank" href="https://drive.google.com/file/d/1z3MDv-v6yy1xDYPHPIQuhAN1mBNXc-MR/view?usp=sharing">
      <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=download&logoColor=white" alt="Download Resume" />
-    </a> -->
+    </a> 
 </div>
 
   
-<!-- ### :man_technologist: About Me 
+  ### :man_technologist: About Me 
  
 Learning ***Full-Stack Web Devlopment*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at <a href="https://www.masaischool.com" target="_blank">Masai School</a> from Bengaluru,India.  -->
 <!-- <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/> -->
@@ -29,7 +29,7 @@ Learning ***Full-Stack Web Devlopment*** <img src="https://media.giphy.com/media
 - 🌱 &nbsp; All of my projects are available at ***[My Portfolio](https://my-portfolio-buldak.vercel.app/)***
 - 💬 &nbsp; Ask me about ***React.Js Javascript***
 - 📫 &nbsp; How to reach me ***parmarambuldak800@gmail.com***
-- ⚡ &nbsp; Fun fact ***C and Java is good, Python is better but JavaScript is the Best.*** -->
+- ⚡ &nbsp; Fun fact ***C and Java is good, Python is better but JavaScript is the Best.***
 
 
 
